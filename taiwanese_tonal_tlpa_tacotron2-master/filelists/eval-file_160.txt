@@ -1,0 +1,259 @@
+/home/mu/tacotron2/train/274.wav|siunn7 siunn7 leh4 iau2 si7 kuat4 ting7 buai9 khi3
+/home/mu/tacotron2/train/2165.wav|lok8 a2 tshiu7 pi2 tsiunn1 a2 huat4 liau2 khah4 bat8
+/home/mu/tacotron2/train/3075.wav|hai7 khi3 e5 tian7 hue2 kiu5 a2 tsong2 phiann1 phiann1 tiau7 bo5 iau3 kin2
+/home/mu/tacotron2/train/1414.wav|ooh4 ooh4
+/home/mu/tacotron2/train/578.wav|to2 tsit8 hang7 kong2 huat4 si7 tsing3 khak4 e5
+/home/mu/tacotron2/train/2320.wav|ooh4 kai3 ho2 kai3 ho2 ah8 bo5 sun7 sua3 gua2 tsai3 lin2 lai5 khi3 khuann3
+/home/mu/tacotron2/train/196.wav|li2 u7 i1 hiah4 phah4 piann3
+/home/mu/tacotron2/train/483.wav|tsiah8 sa1 si2 mih4 e5 si5 e7 sai2 un3 tsit8 kua2 ua1 sa2 bih4 kah4 tau7 iu5
+/home/mu/tacotron2/train/1043.wav|koh4 tsau2 koh4 tsau2 li2 koh4 tsau2
+/home/mu/tacotron2/train/2975.wav|li2 e7 tang3 khi3 tshi7 a2 be2 tsit8 kua2 a2 geh4 tng2 lai5 am3 si5 tsham1 mi1 sooh4 tsu2
+/home/mu/tacotron2/train/607.wav|tsu2 lang5 tsit8 e7 ka7 sing7 ti3 su2 kak4 hue1 a2 tui3 tsia1 e5 ku7 tshu3 pinn1 tsiann5 khuann3 bo5 tsiunn7 bak8
+/home/mu/tacotron2/train/244.wav|thiann3 li2 iann5 ke3 thong1 se3 kan1 lua7 jin5 sing1 tu3 it4 kiu2 ngoo2 ngoo2
+/home/mu/tacotron2/train/1909.wav|ka1 ti7 iu5 guan5 thing5 ti7 guan5 te7 tsit8 tiam2 a2 to1 bo5 kai2 pian3
+/home/mu/tacotron2/train/261.wav|nng7 ping5 e5 kong2 huat4 tui3 be7 khit4 lai5
+/home/mu/tacotron2/train/723.wav|kian3 kinn3 lang5 to7 suann3
+/home/mu/tacotron2/train/119.wav|be7 tshai2 kuan3
+/home/mu/tacotron2/train/966.wav|lau5 sing5 hian5
+/home/mu/tacotron2/train/771.wav|gua2 iong7 si3 siann5 e5 tsiat4 soo3 kuat4 ting7 li2 sing1 khu1 pinn1 e5 lang5 beh4 tsiah8 siann2 hue3 ho2 bo5
+/home/mu/tacotron2/train/1736.wav|tsit4 ma2 thau3 tiong1 tau3 honnh4 jit8 thau5 tng1 me2 kin2 ka7 kha1 tian2 giu2 khi2 lai5
+/home/mu/tacotron2/train/3088.wav|ang1 m7 tinnh8 boo2 boo2 m7 tinnh8 ang1
+/home/mu/tacotron2/train/334.wav|tse1 si7 kuan1 he7 tioh8 lan2 tai5 uan5 tian7 iann2 bi7 lai5 huat4 tian2 e5 tshut4 loo7
+/home/mu/tacotron2/train/2520.wav|lan2 tng2 lai5 khi3
+/home/mu/tacotron2/train/840.wav|tsit4 hang7 tai7 tsi3 li2 na2 e7 m7 bat4 tui3 gua2 the5 khi2
+/home/mu/tacotron2/train/2647.wav|e5 thai3 e7 tsiong5 lai5 m7 bat4 khuann3 kue3 tsit4 e5 lau7 hue3 a2
+/home/mu/tacotron2/train/461.wav|tio7 kong1 bing5 tso3 tsai5 sin5 phoo5 sat4 lim5 bik8 a2 tse2 tso3 thian1 siong7 sing3 bio2
+/home/mu/tacotron2/train/2918.wav|gua2 kong2 li2 to7 si7 koo3 mng5 kau2 lah4
+/home/mu/tacotron2/train/518.wav|gua2 na7 tng2 khi3 tai5 pak4 liau2 au7 e7 sui5 si5 hiong3 gun2 lau7 pe7 lai5 theh8 tshut4 lan2 e5 tai7 tsi3
+/home/mu/tacotron2/train/2446.wav|ti7 kiann3 thau5 tsing5 hiong3 tak8 ke1 khap8 thau5 hue7 sit4 le2
+/home/mu/tacotron2/train/302.wav|mng5 phah4 khui1
+/home/mu/tacotron2/train/2068.wav|li2 ai3 tsun2 pi7 tsit8 kua2 tso3 io2 bih4 e5 tan2 leh4 na7 bo5 kau3 e7 sai2 koh4 iong7
+/home/mu/tacotron2/train/1133.wav|hit4 e5 iann2 phinn3 gua2 bat4 ti7 Youtube khuann3 kue3 li2 e7 tang3 khi3 tshue7 khuann3 mai7
+/home/mu/tacotron2/train/1267.wav|oo9 tso3 tiam3 uan5
+/home/mu/tacotron2/train/2919.wav|li2 beh4 lim1 te5 si7 bo5 tsit4 te3 khok4 puh4 bo5 lang5 iong7 li2 e7 ing7 eh4 theh8 khi3 lim1
+/home/mu/tacotron2/train/1780.wav|tsit4 nng7 tsiong2 he5 a2 e5 the2 hing5 tua7 se3 tsha1 put4 to1
+/home/mu/tacotron2/train/1719.wav|ah4 li2 an2 ne1 ue7 thiann1 bo5 tshing1 tshoo2 kinn3 bin7 tsit8 siann1 to7 ka7 gua2 an2 ne1
+/home/mu/tacotron2/train/842.wav|se1 iunn5 e5 kui2 a2 tseh4 tak8 ke1 tang5 tse5 kue3
+/home/mu/tacotron2/train/1514.wav|gun2 ma2 mah4 lah4
+/home/mu/tacotron2/train/1433.wav|gua2 mih8 kiann7 tso3 be7 ho2 se3
+/home/mu/tacotron2/train/2676.wav|li2 e7 tang3 iong7 bai1 oo2 lin2 ian2 tsau3 tsit8 siu2 lai5 hoo7 tak8 ke1 him1 siong2 bo5
+/home/mu/tacotron2/train/2695.wav|bo5 ka7 li2 ka3 si7 be7 ing7 tsit4
+/home/mu/tacotron2/train/2238.wav|gua7 khau2 tng1 leh4 siu1 loo7 siu1 li2 liau2 e7 phoo1 khong7 ku1 li2
+/home/mu/tacotron2/train/2025.wav|a1 tshiong1 a2 siann2 mih4 gak8 khi3 long2 e7 hiang2 lian5 si2 soo7 mi3 long2 e7 hiau2 pun5
+/home/mu/tacotron2/train/1655.wav|a1 bu2 ioh8 a2 ho2 ah4
+/home/mu/tacotron2/train/61.wav|tan2 bo5 li2 gun2 m7 tsiah4 sing1 kiann5
+/home/mu/tacotron2/train/3007.wav|tsiah4 huat4 kak4 guan5 pun2 kui2 ik4 kui2 tiau7 bue2 hi5 a2 hoo7 lan2 lang5 tsiah8 beh4 liau2 liau2
+/home/mu/tacotron2/train/412.wav|i1 put4 tsi2 a2 gau5 koh4 e7 hiau2 pun5 si2 soo7 mi3
+/home/mu/tacotron2/train/2941.wav|ah4 kang1 hu1 lah4
+/home/mu/tacotron2/train/2151.wav|kok4 ui7 lai5 pin1 li2 ho2 huan1 ging5 tsham1 ka1 tsit4 kian3 e5 tian2 lam2
+/home/mu/tacotron2/train/1205.wav|tiann7 tiann7 khuann3 in1 hit4 e5 se3 han3 e5 ti7 leh4 ka7 tshi7 am2
+/home/mu/tacotron2/train/2762.wav|li2 lau7 su1
+/home/mu/tacotron2/train/2853.wav|tsit4 ma2 luah8 lang5 kau3 ah4 ai1 sirh8 khu1 lin3 mu3 e5 siau1 loo7 kai3 ho2
+/home/mu/tacotron2/train/1835.wav|pai3 thok4 lin2 khah4 se3 siann1 leh4 lai7 bin7 u7 lang5 leh4 hioh4 khun3
+/home/mu/tacotron2/train/877.wav|io5 ooh4 io5 io5 io5
+/home/mu/tacotron2/train/1344.wav|ang5 siau1 ting1 hue2 tshenn1 iu7 ang5
+/home/mu/tacotron2/train/981.wav|phue1 ka7 gua2 kheh8 khi3 khuann3 lah4 lang5 gua2 tok8 sin1 lah4
+/home/mu/tacotron2/train/656.wav|pun2 tsiat4 li7 iong7 pio2 keh4 kah4 bun5 ji7 suat4 bing5 lai5 tian2 si7 sit8 giam7 sing5 ko2
+/home/mu/tacotron2/train/966.wav|lau5 sing5 hian5
+/home/mu/tacotron2/train/3047.wav|gua2 bang7 tioh8 bu2 a2 kiann5 lai5 kiann5 khi3 leh4 tshue7 li2
+/home/mu/tacotron2/train/1112.wav|Syria si3 ni5 e5 tsian3 tsing1 i2 king1 si2 tshiau1 kue3 ji7 tsap8 ban7 lang5
+/home/mu/tacotron2/train/1995.wav|ong5 ko1 lai5 lah4 kin2 eh4 lah4
+/home/mu/tacotron2/train/1379.wav|gua2 ka7 tian7 hue2 khui1 khui1
+/home/mu/tacotron2/train/2611.wav|tsi2 iau3 tsit4 e5 su5 tsoo1 u7 kho2 ling5 si7 a1 N ah8 si7 V N to7 ka7 liah8 tshut4 lai5
+/home/mu/tacotron2/train/585.wav|ooh4 lai5
+/home/mu/tacotron2/train/1274.wav|tan5 tinn7 hong5 giau5 tai5 gi2 bun5 kang1 tsok4 tsia2
+/home/mu/tacotron2/train/839.wav|thau5 ke1 ma5 huan5 mi7 hun2 kin1 puann3
+/home/mu/tacotron2/train/1795.wav|gun2 long2 tsah4 pian7 tong1 khok4 a2 khi3 KFC te2 ma2 ling5 tsi5 tsinn3
+/home/mu/tacotron2/train/707.wav|tai5 uan5 e5 tai7 hak8 sing1 bo5 thak8 kue3 jim7 ho5 tai5 uan5 bun5 hak8 bing5 ka1 e5 tsok4 phin2 tse1 si7 li2 soo2 tong1 jian5
+/home/mu/tacotron2/train/624.wav|kam2 ho2 se3
+/home/mu/tacotron2/train/584.wav|tai5 uan5 tah4 ing3 i2 au7 e7 iong7 i2 khai1 huat4 kok4 ka1 e5 mia5 ti7 WTO kah4 lang5 tshiau5 tai7 tsi3
+/home/mu/tacotron2/train/966.wav|lau5 sing5 hian5
+/home/mu/tacotron2/train/1911.wav|hit4 tai5 li1 a2 khah4 e5 ting2 kuan5 thiap8 tsiok4 tse7 mih8 kiann7
+/home/mu/tacotron2/train/2862.wav|ah4 lian5 senn1 tsit8 tsiah4 ka1 tsuah8 to7 bo5 lah4
+/home/mu/tacotron2/train/1173.wav|eh4 ah4 tse1 si7 gua2 e5 mng5 kha1 khau2 neh4
+/home/mu/tacotron2/train/1546.wav|pang3 tshiu2 lah4
+/home/mu/tacotron2/train/3012.wav|te7 tsong5 phoo5 sat4 pun2 guan7 king1
+/home/mu/tacotron2/train/1536.wav|tsiann5 tse7 hak8 hau7 thau5 tsit8 mng5 kho3 to7 si7 ka3 C plus plus e5
+/home/mu/tacotron2/train/1574.wav|e7 bin5 a2 am3 un2 loh8 hoo7 e5
+/home/mu/tacotron2/train/843.wav|pun2 koo1 niu5
+/home/mu/tacotron2/train/383.wav|siunn7 lai5 siunn7 khi3 iau2 si7 li2 tui3 gua2 siong7 ho2
+/home/mu/tacotron2/train/454.wav|gun2 khan1 e5 thiann1 tioh8 huann1 hi2 kah4 tshui3 a2 lih8 sai1 sai1
+/home/mu/tacotron2/train/2872.wav|kin2 kiann5 lah4
+/home/mu/tacotron2/train/68.wav|li2 kam2 u7 jin7 tong5 hit4 ui7 ki3 tsia2 e5 po3 to7 hong1 sik4
+/home/mu/tacotron2/train/2887.wav|lin2 na7 bo5 khi3 hiam5 iong7 me1 li2 a2 pang1 lue9 tso3 tsong1 hong5 to7 tsin1 sui2 ah4
+/home/mu/tacotron2/train/2541.wav|sian1 sinn1 i1 tsit4 kui2 kang1 phah4 kuann5 phah4 luah8 kam2 e7 si7 tioh8 ma1 la2 li2 a2
+/home/mu/tacotron2/train/57.wav|ho2 lah4 gua2 lai9 tai5 pak4 ka7 li2 mng7 khuann3 u7 bo5
+/home/mu/tacotron2/train/284.wav|ki5 tiong1 P of a1 si7 gi2 su5 a1 e5 ki1 lut8
+/home/mu/tacotron2/train/2710.wav|tse1 khuann3 ke3 siau3 to7 tsai1 iann2 m7 si7 tso3 it4 puann1 e5 ma1 sa3 tsi3
+/home/mu/tacotron2/train/574.wav|mh4
+/home/mu/tacotron2/train/2304.wav|e7 lah4 e7 lah4
+/home/mu/tacotron2/train/2587.wav|hit4 king1 gu5 bah4 tiunn5 u7 leh4 thiau3 su1 to2 lip4 puh4
+/home/mu/tacotron2/train/1131.wav|i1 hoo7 a1 kong1 sing7 phainn2 ah4 put4 si5 ti7 hia1 siu7 khi3 tiunn1 tuah4
+/home/mu/tacotron2/train/2111.wav|ho2
+/home/mu/tacotron2/train/916.wav|ah4 u7 iann2 li2 ting2 pang1 kong2 hit4 e5 ping5 iu2 beh4 lai5 tsiah8 thau5 loo7 kam2 iau2 bo5 siann2 siau1 sit4
+/home/mu/tacotron2/train/2963.wav|i1 tsai1 iann2 uann7 tsun2 beh4 ka3 in1 ti3 sik4 kah4 to7 li2 thau5 sing1 tiann7 tioh8 ai3 kah4 in1 puah8 kam2 tsing5
+/home/mu/tacotron2/train/2992.wav|gua2 se3 han3 to7 u7 khi3 tsu3 B hing5 kuann1 iam7 ik8 biau5 si7 kong2 m7 tsai1 tsit4 ma2 kam2 koh4 u7 khong3 the2 bo5
+/home/mu/tacotron2/train/1421.wav|gua2 koh4 kiam2 li7 sann1 tsap8 hue3 ah4 m7 tshun1 tsit8 kiu5 a2
+/home/mu/tacotron2/train/1347.wav|sng3 kong2 tse1 king2 thau5 tui3 si7 tsit8 tsiong2 iu1 sing3 luat8 pai7 e5 king3 tsing1
+/home/mu/tacotron2/train/2151.wav|kok4 ui7 lai5 pin1 li2 ho2 huan1 ging5 tsham1 ka1 tsit4 kian3 e5 tian2 lam2
+/home/mu/tacotron2/train/1510.wav|tsia1 e5 niau1 a2 tsin1 ai3 kah4 lang5 tau3 tin7
+/home/mu/tacotron2/train/651.wav|gua2 hoo7 li2 be7 phian3 tsit4 li2 it4 ting7 si7 beh4 khi3 tshue7 hit4 tsiah4 siau2 kau2 honnh4
+/home/mu/tacotron2/train/1924.wav|mai3 tsau2
+/home/mu/tacotron2/train/1453.wav|sa1 kha2 li2 bah4 lai7 te2 be7 e5 tiam2 sim1 bi7 si7 u7 khah4 tang7 tam7 poh8 a2
+/home/mu/tacotron2/train/2083.wav|lan2 an2 ne1 tso3 ing1 kai1 si7 bo5 bun7 te5 se3 hu3 lah4
+/home/mu/tacotron2/train/364.wav|ku2 ku2 a2 tsiah8 tsit8 pai2 gua7 khau2 a1 pah4 e5 sim1 tsing5 khuann3 khi2 lai5 tsin1 sim1 sik4
+/home/mu/tacotron2/train/1378.wav|lan2 e5 bang7 tsam7 si2 ah4 li2 kiann5 SSH jip8 khi3 tsu2 ki1 liah8 lau7 ho2 bo5
+/home/mu/tacotron2/train/9.wav|tak8 ke1 long2 kau3 e5 si5 lan2 tsiah4 tang5 tse5 tshut4 hai2 kuan1 nia2 hing5 li2
+/home/mu/tacotron2/train/3071.wav|koh4 kann2 kong2 liok8 tsai5 tsu2 se1 siong1 ki3 honnh4
+/home/mu/tacotron2/train/2764.wav|li2 kam2 u7ㄦˋB e5 ian5 pit4
+/home/mu/tacotron2/train/168.wav|iau2 si7 khi3 tshia1 thau5 tsiah4 ka7 li2 kong2 lah4
+/home/mu/tacotron2/train/2689.wav|hngh4 li2 na7 kiann1 lang5 khuann3 honnh4 be7 hiau2 long2 ui5 ui5 khi2 lai5
+/home/mu/tacotron2/train/2203.wav|in1 sann1 e5 to7 siau2 Apple tak8 pai2 tshut4 sin1 e5 iPhone long2 tsau2 khi3 kah4 lang5 pai5 tui7
+/home/mu/tacotron2/train/7.wav|gua2 siunn7 tioh8 ah4 li2 tsit4 ma2 na7 theh8 khi3 hoo7 siu3 kuan1 a2 honnh4 i1 tsuat8 tui3 m7 ka7 lan2 theh8 e5 lah4
+/home/mu/tacotron2/train/1094.wav|hit4 lo7 a1 lu2 mih4 tiann2 tsiann5 khin1
+/home/mu/tacotron2/train/1231.wav|a1 hiann1 thau5 tsing5 e5 loo7 oo1 so5 so5 lan2 to7 mai3 kiann5 kue3 khi3 ah4 ho2 bo5
+/home/mu/tacotron2/train/345.wav|tshenn1 tshai3 sah8 ho2 liau2 au7 tsiah4 koh4 tsham1 tsit8 kua2 soo3 su3
+/home/mu/tacotron2/train/61.wav|tan2 bo5 li2 gun2 m7 tsiah4 sing1 kiann5
+/home/mu/tacotron2/train/1245.wav|kau1 tai3 i1 tso3 tai7 tsi3 suann3 sian1 suann3 sian1 pan7 be7 ho2
+/home/mu/tacotron2/train/298.wav|li2 tsu2 tsit8 e5 png7 tsu2 kah4 kiam5 tok4 tok4 kam2 e7 tsiah8 tit4
+/home/mu/tacotron2/train/465.wav|li2 iau2 si7 tua3 leh4 tsng1 kha1 khah4 sit8 tsai7
+/home/mu/tacotron2/train/2378.wav|gua2 e5 bin7 ang5 kah4 khuann3 khi2 lai5 na2 tshiunn7 lin3 goo3
+/home/mu/tacotron2/train/3006.wav|sng3 gua2 pai3 thok4 li2 hit4 ki1 te5 koo2 iau2 koh4 sio1 thng3 thng3 moo9 bong1
+/home/mu/tacotron2/train/3008.wav|lian3 lian3 leh4 tsuainn7 tsuainn7 leh4 bo5 kau3 goo7 hun1 tsing1 tiu7 tshau2 pinn7 tshut4 hue1 ji7
+/home/mu/tacotron2/train/1139.wav|i1 thiann1 liau2 tshio3 tshio3 a2 bo5 kong2 ue7 to7 tso3 i1 tsau2 ah4
+/home/mu/tacotron2/train/1087.wav|khui1 mng5 ooh4 khui1 mng5 ooh4
+/home/mu/tacotron2/train/346.wav|li2 na7 kiann1 hoo7 lang5 khuann3 honnh4
+/home/mu/tacotron2/train/1908.wav|gua2 be2 tsit4 e5 tshong3 siann2 hue3
+/home/mu/tacotron2/train/1360.wav|gua2 tu2 tsiah4 khia5 oo1 too2 bai2 khia5 kah4 kui1 e5 lang5 ling2 ki1 ki1 kam2 be7 sai2 sing1 hoo7 gua2 se2 sing1 khu1
+/home/mu/tacotron2/train/2349.wav|ah4 m7 siunn7 li2 m7 siunn7 li2 m7 siunn7 li2 tsuann2 iunn7 gua2 iu7 koh4 siunn7 khi2
+/home/mu/tacotron2/train/1177.wav|hoo7 siong1 ai3 si7 tsin1
+/home/mu/tacotron2/train/2999.wav|kan3 lin2 hiong5 hiong5 tshut4 siann1 si7 leh4 tshong3 siann2 lah4
+/home/mu/tacotron2/train/669.wav|ho2
+/home/mu/tacotron2/train/974.wav|u7 tai7 tsi3
+/home/mu/tacotron2/train/631.wav|iong7 tsit4 khuan2 hong1 sik4 li2 tsing3 bing5 li2 si7 tsu2 lang5 sin1 the2 si7 loo5 le7
+/home/mu/tacotron2/train/1742.wav|tsin1 to1 sia7 honnh4
+/home/mu/tacotron2/train/1480.wav|tua7 siann1 lai5 kio3 i1 gua2 e5 lang5 ah4 siann1 im1 hiang2 liang7 mua2 suann1 pinn1
+/home/mu/tacotron2/train/873.wav|tsit4 hang7 tshai3 tsin1 loh8 png7
+/home/mu/tacotron2/train/2636.wav|bing5 tsai1 tui3 hong1 bo5 kah4 i3 tsit4 tsiong2 tso3 huat4 suah4 ma7 bo5 siunn7 beh4 kai2 pian3
+/home/mu/tacotron2/train/2726.wav|Ikea e5 mih8 kiann7 long2 tsiann5 tshoo1 siok8 iong7 bo5 gua7 ku2 to7 phainn2 khi3 ah4
+/home/mu/tacotron2/train/2233.wav|gua2 si7 khuann3 siu3 kuan1 in1 lau7 pe7 tshue7 e5 thau5 loo7 long2 si7 lim5 si5 kang1
+/home/mu/tacotron2/train/2695.wav|bo5 ka7 li2 ka3 si7 be7 ing7 tsit4
+/home/mu/tacotron2/train/425.wav|tsit4 ma2 koh4 u7 puann3 tiam2 tsing1 tak8 ke1 tsu7 iu5 tsham1 kuan1
+/home/mu/tacotron2/train/1138.wav|m7 ho2 iau2 be7 kiam2 pui5 to7 khi3 tsham1 ka1 ma1 la2 song2 e7 si2 lang5
+/home/mu/tacotron2/train/1791.wav|lan2 i2 king1 kiann5 tsit8 tuann7 loo7 a7 sing1 tshue7 tsit8 king1 hoo1 the2 luh4 khiu9 khe2 tsit8 e7 ho2 bo5
+/home/mu/tacotron2/train/2702.wav|ka7 hong5 tsi2 po7 hing5 tong3 tso3 tiong7 iau3 e5 gua7 kau1 tsing3 tshik4 bok8 piau1
+/home/mu/tacotron2/train/187.wav|kok4 lang5 tsiah8 kok4 lang5 e5
+/home/mu/tacotron2/train/2444.wav|gua2 thai5 kue3 ke1 a2
+/home/mu/tacotron2/train/892.wav|he1 tsui2 ko2 gua7 khau2 koo1 senn1 hiah4 ni7 tng5 honnh4 bai9 khun2 tsiok4 tse7 m7 ho2 koh4 tsiah8 ah4 ai3 tan3 tiau7
+/home/mu/tacotron2/train/2675.wav|li2 u7 i1 e5 nng7 pue7 khiau2
+/home/mu/tacotron2/train/2925.wav|tshio3 tsit8 e7 lah4
+/home/mu/tacotron2/train/2204.wav|ho2 m7
+/home/mu/tacotron2/train/844.wav|lau7 su1 e5 kong2 huat4 kah4 ping5 iu2 e5 kong2 huat4 to2 tsit8 e5 si7 tioh8 e5
+/home/mu/tacotron2/train/569.wav|li2 tsin1 sui2 lah4 an2 ne1 hoo7 gua2 ka7 li2 ue7 too5 khi2 lai5 kio3 tso3 moo1 le2 luh4 lah4
+/home/mu/tacotron2/train/677.wav|he1 m7 si7 gua2
+/home/mu/tacotron2/train/2585.wav|thiann1 kong2 i1 tso3 tai7 tsi3 kui2 kui2 kuai3 kuai3 hoo7 lang5 sa1 bo5 tsang2
+/home/mu/tacotron2/train/1863.wav|lin2 tsit4 king1 si7 tang1 si5 uann7 thau5 ke1 e5 gua2 na2 e7 long2 m7 tsai1 iann2
+/home/mu/tacotron2/train/2838.wav|tsit4 ma2 si7 hun7 be5 put4 tshinn2
+/home/mu/tacotron2/train/2.wav|suah4 ka7 li2 tim3 tioh8
+/home/mu/tacotron2/train/1056.wav|a1 bi2 gua2 ka7 li2 kong2 tsit4 e5 honnh4 to7 gua2 tso3 ping1 kang7 the1 e5 ing5 tshan3 a2 lah4
+/home/mu/tacotron2/train/2831.wav|tsit4 king1 png7 tiam3 e5 ne3 tsiang3 long2 tsiok4 u7 le2 mau7 e5
+/home/mu/tacotron2/train/469.wav|ah4 piau2 sio2 ti7
+/home/mu/tacotron2/train/562.wav|li2 tshui3 tsin1 tshang3 tshiu1
+/home/mu/tacotron2/train/534.wav|phian3 siau2 e5 ooh4 lai5 tsia2 si7 kheh4
+/home/mu/tacotron2/train/481.wav|ku7 ni5 te2 se1 hong1 tse3 tshai5 ka1 siong7 iu5 ke3 tua7 loh8 giam5 tiong7 tann2 kik4 Russia e5 king1 tse3
+/home/mu/tacotron2/train/1110.wav|kau3 tsia1 thinn1 beh4 tsuat8 gua2 e5 senn3 mia7 liauh4
+/home/mu/tacotron2/train/988.wav|kiann5 lai5 khi3 gua7 khau2 na2 tsiah8 na2 kong2
+/home/mu/tacotron2/train/2478.wav|ooh4 ho7 tso3 thian1 po2 a2 lah4 ah4 gua2 to7 han5 ban7 lang5 lah4 tshin3 tshai2 ho7 ho7 leh4 lah4
+/home/mu/tacotron2/train/809.wav|i1 hit4 su1 sann1 kam2 si7 khi3 Net be2 e5
+/home/mu/tacotron2/train/1083.wav|ki5 thann1 e5 lang5 long2 khuann3 kah4 tsiann5 him1 sian7 ma7 ui5 ua2 lai5 ka7 han3 tsing1 li5 tih8 sann1 liap8 inn5 a2 tsiah8
+/home/mu/tacotron2/train/986.wav|tsit4 e5 sia7 hue7 i1 kai3 kuan1 sim1
+/home/mu/tacotron2/train/1891.wav|khi2 siau2
+/home/mu/tacotron2/train/2679.wav|tsiann5 sit8 phainn2 tsa1 boo2 gin2 a2
+/home/mu/tacotron2/train/1905.wav|bak8 sik4 tun7 koh4 lioh8 a2 thuah4 thang1 liooh4
+/home/mu/tacotron2/train/374.wav|tshiu7 ki1 sinnh8 suainnh8 kio3
+/home/mu/tacotron2/train/1933.wav|heh4 heh4
+/home/mu/tacotron2/train/429.wav|ling5 ging2 tsha5 go5 oo1 thng5 ko1 phang1 kit8 kit8 kim1 ng5 sik4 tsui2 bun3 tshut4 inn5 hing5 e5 pho1
+/home/mu/tacotron2/train/1528.wav|a1 put4 lah4 tsit4 e5 m7 tsiann5 kiann2 kan2 na2 tsiok4 li7 hai7 e5 hannh4
+/home/mu/tacotron2/train/1866.wav|bo5 li2 si7 leh4 khau3 pe7 siann2 lah4
+/home/mu/tacotron2/train/2517.wav|loh8 lai5
+/home/mu/tacotron2/train/1228.wav|tsa1 poo1 e5 tua7 poo7 hun7 long2 tsau2 khi3 too1 tshi7 tsiah8 thau5 loo7
+/home/mu/tacotron2/train/2298.wav|hong3 png2 liau2 au7 tsiah4 lai5 m7 kann2 kah4 lang5 sio1 tom3 thau5
+/home/mu/tacotron2/train/2763.wav|tsit4 nia2 lai7 khoo3 siann2 mih4 lang5 e5
+/home/mu/tacotron2/train/228.wav|eh4 heh4 heh4 hah4 hah4 hah4 eh4
+/home/mu/tacotron2/train/1633.wav|a1 peh4 a1 m2
+/home/mu/tacotron2/train/890.wav|lin2 boo2 kam2 tsai1 iann2 li2 tioh8 ai3 kok4 tsiong2 kuan3
+/home/mu/tacotron2/train/213.wav|ui7 siann2 mih4 be7 tang3 an2 ne1
+/home/mu/tacotron2/train/1075.wav|P of AB kin7 ua2 P of a1 sing5 P of B soo2 i2 mi1 of AB kin7 ua2 ling5
+/home/mu/tacotron2/train/2964.wav|si3 tsap8 sann1 sin5 sing3 e5 bu2 tshin1 bu2 tshin1 tseh4 e5 si5 bo5 hun7 tsing3 hu2 kah4 bin5 kan1
+/home/mu/tacotron2/train/959.wav|ue7 thau5 tsok4 tsia2 ka7 thok8 tsia2 tsu1 kun1 po3 ko3
+/home/mu/tacotron2/train/2090.wav|tshu3 lai7 u7 lak8 tshit4 ki1 tshui3 ai3 tshi7
+/home/mu/tacotron2/train/2635.wav|gua2 e7 kuai1
+/home/mu/tacotron2/train/2996.wav|ti7 lai7 bin7 ban7 tshiann2 sian1 sinn1 u7 kau1 tai3 m7 ho2 jip8 khi3
+/home/mu/tacotron2/train/2882.wav|tsing3 king1 e5 a7
+/home/mu/tacotron2/train/2275.wav|ng5 sian1 sinn1 u7 ti7 leh4 bo5
+/home/mu/tacotron2/train/65.wav|iong7 thong2 ke3 e5 hong1 sik4 tso3 ping7 m7 si7 beh4 tshu2 tai7 tsuan1 ka1
+/home/mu/tacotron2/train/2945.wav|bo5 ai3 tshap4 li2 lah4 hngh4
+/home/mu/tacotron2/train/796.wav|tsue3 kin7 kui2 ko3 gueh8 lai5 Russia m7 na7 to1 tshu3 phai3 kun1 ki1 pik4 kin7 au1 tsiu1 kok4 ka1 e5 pian1 kai3
+/home/mu/tacotron2/train/1608.wav|tsuan5 poo7 long2 puann1 puann1 tshut4 khi3
+/home/mu/tacotron2/train/2999.wav|kan3 lin2 hiong5 hiong5 tshut4 siann1 si7 leh4 tshong3 siann2 lah4
+/home/mu/tacotron2/train/1785.wav|tua7 tse2 ke1 gua2 bo5 kui2 hue3
+/home/mu/tacotron2/train/1071.wav|khai1 kho3
+/home/mu/tacotron2/train/1866.wav|bo5 li2 si7 leh4 khau3 pe7 siann2 lah4
+/home/mu/tacotron2/train/1397.wav|kiu3 lang5 ooh4 gua2 gua2 m7 kann2 ua2 khi3 gua2 e7 kiann1
+/home/mu/tacotron2/train/2219.wav|tsia1 to7 si7 hak8 hau7 lah4
+/home/mu/tacotron2/train/2136.wav|to7 sng3 bak8 tsiu1 khuann3 kah4 beh4 thuah4 thang1，iau2 si7 tsi2 khuann3 tioh8 bat8 bat8 e5 oo1 tiam2
+/home/mu/tacotron2/train/260.wav|hit4 king1 e5 u1 long2 mi7 kai3 khiu7 u7 ing5 e5 si5 tsun7 e7 sai2 tso3 hue2 khi3 tsiah8 khuann3 mai7
+/home/mu/tacotron2/train/2866.wav|kau3 tshai5 siat4 ke3 liau2 bai2 tian1 to3 oh4 ka3 phainn2 oh8
+/home/mu/tacotron2/train/3009.wav|tsit4 tsiong2 hok8 hap8 ku3 tsha1 put4 to1 long2 e7 iong7 ka3 siat4 su5 lai5 khai1 si2 i1 e7 tang3 tsi2 hiong3 kue3 khi3
+/home/mu/tacotron2/train/752.wav|phainn2 se3 a2 be7 kuat4 ting7 beh4 tiam2 siannh4
+/home/mu/tacotron2/train/84.wav|bo5 gua2 kio3 i1 sin7 sua3 uat4 kue3 lai5 tsai3 li2
+/home/mu/tacotron2/train/596.wav|tok8 sin1 to7 khi3 tsu3 Penicillin lah4
+/home/mu/tacotron2/train/307.wav|tsiok4 lin2 kian7 khong1 khuai3 lok8 ban7 su7 ju5 i3 to1 sia7
+/home/mu/tacotron2/train/626.wav|gua2 kong2
+/home/mu/tacotron2/train/441.wav|li2 khuann3 khi2 lai5 khi1 moo2 tsih4 be7 bai2 oo7 tu2 tioh8 siann2 mih4 ho2 khang1 e5 ma7 kong2 hoo7 gun2 thiann1 tsit8 e7
+/home/mu/tacotron2/train/1557.wav|li2 kam2 u7 beh4 lai5 sng2 PS two
+/home/mu/tacotron2/train/2151.wav|kok4 ui7 lai5 pin1 li2 ho2 huan1 ging5 tsham1 ka1 tsit4 kian3 e5 tian2 lam2
+/home/mu/tacotron2/train/2633.wav|tsit8 lui2 hue1 goo7 khoo1 hue1 tsit8 lui2 goo7 khoo1
+/home/mu/tacotron2/train/621.wav|tue3 tioh8 im1 gak8 ngiu2 io1 hian2 kha1 tshng1 sim1 sik4 tshio3 khue1
+/home/mu/tacotron2/train/1052.wav|tang5 a2
+/home/mu/tacotron2/train/1134.wav|li7 iong7 i1 e5 kua1 siann1 kah4 hian5 a2 bi2 biau7 e5 suan5 lut8 ka7 ping5 an1 ham7 hing7 hok4 thuan5 tat8 tshut4 khi3
+/home/mu/tacotron2/train/1830.wav|li2 ti7 Fb u7 jua7 tse7 ping5 iu2 ah4
+/home/mu/tacotron2/train/861.wav|tsiah8 pa2 liau2 au7 tak8 ke1 tng2 lai5 tsiu2 tiam3 hioh4 khun3
+/home/mu/tacotron2/train/1869.wav|tshai3 ling2 khi3 ah4 lah4
+/home/mu/tacotron2/train/395.wav|React kah4 Redux kap4 tso3 hue2 iong7 tsiann5 su3 si7
+/home/mu/tacotron2/train/2028.wav|m7 koh4 i1 ping7 bo5 piau2 si7 beh4 tshiam1 ting7 tsing3 sik4 e5 hong5 gu7 tiau5 iok4
+/home/mu/tacotron2/train/415.wav|tai5 pak4 tsong2 kong1 si1 thong1 ti1 lah4 kong2 tang2 su7 tiunn2 thai3 thai3 kue3 sin1 khi3 au7 jit8 beh4 tshut4 suann1
+/home/mu/tacotron2/train/677.wav|he1 m7 si7 gua2
+/home/mu/tacotron2/train/1521.wav|hit4 e5 lang5 ma7 leh4 ki5 na2 e7 leh4 ka7 lan2 sueh4 to1 sia7
+/home/mu/tacotron2/train/2721.wav|ji7 peh4 e5 tsing3 thau5 na2 lai5 na2 tshiunn7 sit4 ti3 e5 khuan2 kin2 kio3 in1 kiann2 tshua7 khi3 hoo7 i1 sing1 khuann3
+/home/mu/tacotron2/train/238.wav|sio2 tsia2 m7 tsai1 u7 iau3 kin2 ah8 bo5 hannh4
+/home/mu/tacotron2/train/1804.wav|tak8 gueh8 tak8 jit8 lan2 it4 tit8 it4 tit8 ui7 tioh8 kang7 khuan2 e5 tai7 tsi3 kap4 kang7 khuan2 e5 lang5 lai5 uan1 ke1
+/home/mu/tacotron2/train/569.wav|li2 tsin1 sui2 lah4 an2 ne1 hoo7 gua2 ka7 li2 ue7 too5 khi2 lai5 kio3 tso3 moo1 le2 luh4 lah4
+/home/mu/tacotron2/train/2769.wav|kam2 si7 kah4 tsit8 kua2 ban2 pin1 nng5 e5 sio2 tsia2 leh4 kong2 ue7
+/home/mu/tacotron2/train/2990.wav|kiann1 si2
+/home/mu/tacotron2/train/1737.wav|Yahoo i2 tsa2 tsiann5 u7 mia5 m7 koh4 tsit4 ma2 i2 king1 to2 ah4
+/home/mu/tacotron2/train/2604.wav|i1 e5 nng7 tshin1 tshiunn7 tau7 ngueh4 tsit8 ngueh4 tiann7 tioh8 sann1 tsap8 goo7 liap8
+/home/mu/tacotron2/train/1238.wav|kui1 kuan3 long2 ka7 to3 to3 tshut4 lai5
+/home/mu/tacotron2/train/424.wav|tse1 ia7 si7 sim2 phuann3 si1 ing1 kai1 pan7 e5 tsue7 in1 ui7 gua2 an2 ne1 si7 pue7 biu7 ti7 ting2 bin7 e5 siong7 te3
+/home/mu/tacotron2/train/2054.wav|ji7 khong3 it4 ji7 ni5 peh4 gueh8 ti7 tai5 tiong1
+/home/mu/tacotron2/train/928.wav|siann1 siann1 ku3 ku3 long2 si7 khi1 phian3 gua2
+/home/mu/tacotron2/train/2311.wav|siann2 lang5 pak4 too2 iau1
+/home/mu/tacotron2/train/2146.wav|li2 tshiu2 ki1 a2 si7 Android ah8 si7 iOS e5
+/home/mu/tacotron2/train/2812.wav|pe7 bu2 tsa2 si2 sing5 jian5 tsu7 iu5 lah4
+/home/mu/tacotron2/train/1446.wav|ki3 lok8 in1 kah4 tsip4 huat4 tui3 siong7 e5 hoo7 tong7 tse1 si7 jin5 kuan5 thuan5 the2 it4 tit8 iau1 kiu5 e5
+/home/mu/tacotron2/train/256.wav|a1 po5 kah4 in1 sin1 pu7 bo5 tua3 tso3 hue2
+/home/mu/tacotron2/train/2281.wav|keh4 piah4 a1 peh4 ha1 tshiuh4 tsit8 e7 suah4 siam2 tioh8 io1
+/home/mu/tacotron2/train/2922.wav|ah4 lang5 gua2 be2 tsit8 te3 bah4 to7 si7 beh4 theh8 lai5 khi3 hoo7 in1 tsiah8 e5 lah4
+/home/mu/tacotron2/train/1349.wav|ji7 khong3 it4 ji7 ni5 lak8 gueh8 ti7 tai5 tiong1
+/home/mu/tacotron2/train/2118.wav|tsiau2 thi5 siann1 ham5 tsing5 tai3 i3 bi2 le7 tshun1 kong1 mua2 mua2 si7
+/home/mu/tacotron2/train/2370.wav|ka3 siat4 ku3 e7 tang3 hoo7 lan2 ping5 tam7 put4 hing7 e5 hian7 sit8 sing1 uah8 pian3 tso3 tshai2 sik4
+/home/mu/tacotron2/train/2861.wav|li2 bo5 i1 e5 sann1 siann5 khiau2
+/home/mu/tacotron2/train/2523.wav|gua2 e5 e5 a2 se2 kah4 peh8 siak4 siak4
+/home/mu/tacotron2/train/1091.wav|na7 si7 beh4 ai3 gua2 mai3 tshap4 tsit4 tsan5 tai7 tsi3 tu5 liau2 li2 kong2 tsit8 e5 li2 iu5 hoo7 gua2 thiann1 e7 loh8 khi3
+/home/mu/tacotron2/train/1208.wav|leh4 ham7 Sunni kue3 kik4 phai3 e5 Islam kok4 kau1 tsian3
+/home/mu/tacotron2/train/2431.wav|a1 i5 gua2 lai5
+/home/mu/tacotron2/train/1977.wav|hai7 a7 tsiah4 uann3 ah4 long2 bo5 khuann3 tioh8 i1 e5 lang5
+/home/mu/tacotron2/train/2176.wav|lian5 lian5 khuann3 si7 si1 sia7 hue7 pan2 si7 si1
+/home/mu/tacotron2/train/633.wav|ngoo2 hok4 tshun1 ji7 tsap8 lak8 ho7
+/home/mu/tacotron2/train/2313.wav|a1 po2 lang5 bin7 khuah4 ing3 siu5 tsin1 tse7 tiann7 tiann7 hoo7 in1 boo2 hiam5 khai1 siau1 siong1 tiong7
+/home/mu/tacotron2/train/2835.wav|ah4 li2 tsit4 poo7 ia7 bo5 thong1 hit4 poo7 ia7 bo5 thong1

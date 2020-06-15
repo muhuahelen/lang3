@@ -1,0 +1,2 @@
+#!/bin/awk
+awk '{if (length($0) <=160) print $0}' train-file.txt
